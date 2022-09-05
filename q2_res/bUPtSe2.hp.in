@@ -1,0 +1,8 @@
+ &inputhp
+   prefix ='bUPtSe2',
+   outdir ='.//lscratch.bUPtSe2',
+   nq1 = 2, nq2 = 2, nq3 = 1,
+   conv_thr_chi = 1.0d-7,
+   iverbosity = 2
+ /
+
